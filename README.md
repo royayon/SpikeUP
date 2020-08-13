@@ -5,9 +5,7 @@ SpikeUP is a 2D game developed with c++ and OpenGL library. It is a game of Spik
 ### Screenshots
 ![SpikeUP](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/GamePlay.png "GamePlay")
 
-![SpikeUP](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/Gameover.png "GameOVER")
 
-![Spike](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/Spike.png "SPIKE")
 
 
 ### Installation
@@ -18,6 +16,7 @@ SpikeUP is a 2D game developed with c++ and OpenGL library. It is a game of Spik
 
 
 ### How to Play
+![Spike](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/Spike.png "SPIKE")
 
 * Use keyboards `LEFT Arrow` and `RIGHT Arrow` to move `Spike` (name of the hero of this Game) Left and Right.
 * You can only move Left and Right!
