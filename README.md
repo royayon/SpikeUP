@@ -2,6 +2,14 @@
 
 SpikeUP is a 2D game developed with c++ and OpenGL library. It is a game of Spikes!
 
+### Screenshots
+![SpikeUP](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/GamePlay.png "GamePlay")
+
+![SpikeUP](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/Gameover.png "GameOVER")
+
+![Spike](https://raw.githubusercontent.com/royayon/SpikeUP/master/Screenshots/Spike.png "SPIKE")
+
+
 ### Installation
 
 * Download this Repository [SpikeUP](https://github.com/royayon/SpikeUP/)
