@@ -521,6 +521,11 @@ void myDisplay()
         // Game OVER
         RenderString(8.0f, 15.8f, GLUT_BITMAP_TIMES_ROMAN_24, "GAME OVER!",1.0f,1.0f,1.0f);
 
+        // By
+        RenderString(8.0f, 5.8f, GLUT_BITMAP_TIMES_ROMAN_24, "Project By-",1.0f,1.0f,1.0f);
+        // Credit
+        RenderString(8.0f, 4.8f, GLUT_BITMAP_TIMES_ROMAN_24, "Ayon Roy",1.0f,1.0f,1.0f);
+
         PlaySound(NULL, 0, 0);
     }
 
